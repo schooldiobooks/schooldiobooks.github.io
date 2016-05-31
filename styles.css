@@ -2,6 +2,10 @@
 	font-family: "cookiemonster";
 	src: url("fonts/CookeMonster.ttf");
 }
+@font-face {
+	font-family: "american_typewriter";
+	src: url("fonts/AmericanTypewriter.ttc");
+}
 body {
 	background-color:#ff4d88
 }
