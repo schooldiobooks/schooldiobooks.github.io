@@ -1,6 +1,6 @@
 @font-face {
 	font-family: "cookiemonster";
-	src: url("fonts/CookeMonster.ttf");
+	src: url("fonts/CookieMonster.ttf");
 }
 @font-face {
 	font-family: "american_typewriter";
@@ -61,7 +61,7 @@ h1 {
 	color: #111;
 }
 #index {
-	font-family: american typewriter;
+	font-family: american_typewriter;
     margin-top: 2em;
     margin-bottom: 85px;
     margin-right: 46em;
@@ -91,7 +91,7 @@ hr {
 	box-shadow: 0px 0px 5px #fff;
 }
 #audiobooks {
-	font-family: american typewriter;
+	font-family: american_typewriter;
 	text-align: center;
 	margin-top: 3em;
     margin-bottom: 3em;
@@ -99,11 +99,11 @@ hr {
     margin-left: 5em;
 }
 #services {
-	font-family: american typewriter;
+	font-family: american_typewriter;
 	text-align: center;
 }
 
 #schoolswithservices {
-	font-family: american typewriter;
+	font-family: american_typewriter;
 	text-align: center;
 }
